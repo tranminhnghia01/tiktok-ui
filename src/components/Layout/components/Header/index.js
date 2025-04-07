@@ -23,7 +23,7 @@ function Header() {
             <FontAwesomeIcon icon={faMagnifyingGlass} />
           </button>
         </div>
-        <div className={cx('action')}></div>
+        <div className={cx('action')}>Action</div>
       </div>
     </header>
   );
